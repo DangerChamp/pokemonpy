@@ -1,6 +1,19 @@
 {
     "BULBASAUR": {
+        "index": 1,
         "name": "Bulbasaur",
+        "type": "GRASS"
+    },
+
+    "CHARMANDER": {
+        "index": 4,
+        "name": "Charmander",
+        "type": "FIRE"
+    },
+
+    "SQUIRTLE": {
+        "index": 7,
+        "name": "Squirtle",
         "type": "WATER"
     }
 }
